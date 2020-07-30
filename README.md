@@ -1,4 +1,6 @@
 ### Hi there 👋
+##### - 🌱 I’m currently learning Web Development(MEN Stack) and Deep Learning
+##### - 👯 I’m looking to collaborate on Natural Language Processing related projects
 
 <!--
 **ankitsharma1999/ankitsharma1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
